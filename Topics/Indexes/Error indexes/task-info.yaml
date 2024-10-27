@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "[1, 2, 3, 4][-4]"
+  - text: "[1, 2, 3][-4]"
+  - text: "[1, 2, 3, 4][3]"
+  - text: "[1, 2, 3, 4][4]"
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5982#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 24 Oct 2024 19:16:41 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+local_check: false
